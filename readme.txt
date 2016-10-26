@@ -1,0 +1,1 @@
+Application built on Node.js that is meant to aggregate all reviews from different social media sites to one location. Uses Node, express, html5. 
